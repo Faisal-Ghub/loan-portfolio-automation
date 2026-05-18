@@ -1,4 +1,4 @@
-# Loan Portfolio Automation
+# Loan Portfolio Automations
  
 An end-to-end automation solution that transforms raw loan data into actionable 
 business intelligence using n8n workflow orchestration and Groq's LLaMA 3.3 70B.
